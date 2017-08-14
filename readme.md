@@ -17,7 +17,7 @@ It will get the latest updates from the json files and then rename the `.zip` fi
 
 ## Versioning
 
-<img src="https://github.com/bukinoshita/smiley-sketch/blob/master/smiley-sketch.gif"/>
+<img src="https://github.com/bukinoshita/smiley-sketch/blob/master/smile-sketch.gif"/>
 
 ## Preview
 
