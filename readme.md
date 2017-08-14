@@ -15,14 +15,19 @@ It zips a `.sketch` file and then decompress it generating json files to be vers
 It will get the latest updates from the json files and then rename the `.zip` file to `.sketch`.
 
 
+## Versioning
+
+<img src="https://github.com/bukinoshita/smiley-sketch/blob/master/smiley-sketch.gif"/>
+
 ## Preview
 
-<img src="https://github.com/bukinoshita/smiley-sketch/blob/master/sketch/previews/preview.png" width="828"/>
+<img src="https://github.com/bukinoshita/smiley-sketch/blob/master/sketch/previews/preview.png" width="600"/>
 
 
 ## Related
 
 [sketch-json](https://github.com/bukinoshita/sketch-json) — Transform sketch files to json and json to sketch files
+[terminal-sketch](https://github.com/bukinoshita/terminal-sketch) — Terminal sketch
 
 ## License
 
