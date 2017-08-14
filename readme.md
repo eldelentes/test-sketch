@@ -26,8 +26,8 @@ It will get the latest updates from the json files and then rename the `.zip` fi
 
 ## Related
 
-[sketch-json](https://github.com/bukinoshita/sketch-json) — Transform sketch files to json and json to sketch files
-[terminal-sketch](https://github.com/bukinoshita/terminal-sketch) — Terminal sketch
+- [sketch-json](https://github.com/bukinoshita/sketch-json) — Transform sketch files to json and json to sketch files
+- [terminal-sketch](https://github.com/bukinoshita/terminal-sketch) — Terminal sketch
 
 ## License
 
