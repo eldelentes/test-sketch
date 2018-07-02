@@ -4,11 +4,16 @@
     "A7C62F0A-3959-43A9-9AB8-2083E6E5F119": {
       "name": "Page 1",
       "artboards": {
+<<<<<<< HEAD
+        "78334EE4-C041-44A1-A2C2-58D3E37AEF32": {
+          "name": "smiley-sketch copy copy copy"
+=======
         "BBB850CB-8DCA-4A85-9080-988CF3625743": {
           "name": "smiley-sketch copy 2"
         },
         "E33001F6-AB47-43CE-84FA-597206673C84": {
           "name": "smiley-sketch copy"
+>>>>>>> 82a64b8af99ea93c4731a21405a1a20a936ee6ba
         },
         "878BE287-F198-440D-A8FA-9CDF593D70E1": {
           "name": "smiley-sketch"
