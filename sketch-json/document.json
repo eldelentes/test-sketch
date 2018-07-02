@@ -11,10 +11,11 @@
     },
     "images": []
   },
+  "colorSpace": 0,
   "currentPageIndex": 0,
-  "enableLayerInteraction": true,
-  "enableSliceInteraction": true,
+  "foreignLayerStyles": [],
   "foreignSymbols": [],
+  "foreignTextStyles": [],
   "layerStyles": {
     "_class": "sharedStyleContainer",
     "objects": []
